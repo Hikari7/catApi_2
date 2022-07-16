@@ -4,7 +4,6 @@
   https://alexwohlbruck.github.io/cat-facts/docs/
 </p>
 <li>This Video Tutorial-</li>
-<video
+<li>
     src="https://www.youtube.com/channel/UCzEtNdFudhhVUT5OrKUnWnQ?view_as=subscriber"
- 
-</video>
+</li>
